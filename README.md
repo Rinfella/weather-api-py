@@ -1,10 +1,11 @@
 # Python CLI Weather Tool.
+```
  __      __        _   _             ___ _    ___ 
  \ \    / /__ __ _| |_| |_  ___ _ _ / __| |  |_ _|
   \ \/\/ / -_) _` |  _| ' \/ -_) '_| (__| |__ | | 
    \_/\_/\___\__,_|\__|_||_\___|_|  \___|____|___|
+```
    
-
 - This Python CLI tool uses OpenWeather API.
 - You need OpenWeather account if you don't have one.
 - Copy the API key from your OpenWeather account.
